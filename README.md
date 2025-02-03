@@ -1,2 +1,2 @@
 # html-portfolio
-here is my first portfolio I made as web developer
+here is the first portfolio I made as web developer
